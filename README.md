@@ -2,7 +2,6 @@
 
 A modern, feature-rich Tic-Tac-Toe game built with React, TypeScript, and Vite. Challenge your friends or test your skills against an unbeatable AI!
 
-![Tic-Tac-Toe Game](public/favicon.svg)
 
 ## ✨ Features
 
